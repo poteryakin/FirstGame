@@ -1,0 +1,29 @@
+#buttons {
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+button {
+    background-color: #3882f6;
+    border-radius: 10px;
+    height: 35px;
+    color: #f9faf8;
+    width: 100px;
+}
+
+#header {
+    text-align: center;
+}
+
+#result {
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 18px;
+    
+}
